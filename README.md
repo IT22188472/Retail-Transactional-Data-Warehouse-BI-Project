@@ -82,7 +82,7 @@ Utilizing SSAS, an OLAP cube was developed to facilitate multidimensional analys
    * Defined data source and data source view (DSV) incorporating fact and dimension tables.
    * Established hierarchies, particularly in the `DimDate` dimension.
   
-   ![Star Schema](./assets/power-star.png)
+   ![Star Schema](./assets/power star.png)
 
 2. **Deployment and Processing:**
 
