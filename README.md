@@ -116,8 +116,8 @@ Interactive dashboards were created in Power BI to visualize key performance ind
    * Enabled navigation from summary visuals to detailed transaction records.
 
 ---
-![Power BI Dashboard 1](./assets/power1.png)
-![Power BI Dashboard 2](./assets/power2.png)
+<img src="./assets/power1.png" alt="Power BI Dashboard 1" width="600" />
+<img src="./assets/power2.png" alt="Power BI Dashboard 2" width="600" />
 ---
 
 ## 🏗️ Project Architecture
