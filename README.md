@@ -82,14 +82,14 @@ Utilizing SSAS, an OLAP cube was developed to facilitate multidimensional analys
    * Defined data source and data source view (DSV) incorporating fact and dimension tables.
    * Established hierarchies, particularly in the `DimDate` dimension.
   
-   ![Star Schema](./assets/powerstar.png)
+   <img src="./assets/powerstar.png" alt="Star Schema" width="400" />
 
-2. **Deployment and Processing:**
+3. **Deployment and Processing:**
 
    * Deployed the cube to the SSAS server instance.
    * Processed the cube to load data and build aggregations.
 
-3. **OLAP Operations:**
+4. **OLAP Operations:**
 
    * Performed slicing, dicing, drill-down, and roll-up operations using Excel PivotTables connected to the cube.
 
@@ -116,8 +116,9 @@ Interactive dashboards were created in Power BI to visualize key performance ind
    * Enabled navigation from summary visuals to detailed transaction records.
 
 ---
-<img src="./assets/power1.png" alt="Power BI Dashboard 1" width="600" />
-<img src="./assets/power2.png" alt="Power BI Dashboard 2" width="600" />
+<img src="./assets/power1.png" alt="Power BI Dashboard 1" width="400" />
+<img src="./assets/power2.png" alt="Power BI Dashboard 2" width="400" />
+
 ---
 
 ## 🏗️ Project Architecture
