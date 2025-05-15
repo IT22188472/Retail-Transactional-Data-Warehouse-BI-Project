@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\DWBI Project\\Spllited Tables\\MultidimensionalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{183F644D-8A28-FF90-60E9-5C4D4D0A917B}|MultidimensionalProject.dwproj|C:\\Users\\USER\\Desktop\\DWBI Project\\Spllited Tables\\MultidimensionalProject\\Cube_Project DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{183F644D-8A28-FF90-60E9-5C4D4D0A917B}|MultidimensionalProject.dwproj|solutionrelative:Cube_Project DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183F644D-8A28-FF90-60E9-5C4D4D0A917B}|MultidimensionalProject.dwproj|C:\\Users\\USER\\Desktop\\DWBI Project\\Spllited Tables\\MultidimensionalProject\\Project DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{183F644D-8A28-FF90-60E9-5C4D4D0A917B}|MultidimensionalProject.dwproj|solutionrelative:Project DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project DW.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DWBI Project\\Spllited Tables\\MultidimensionalProject\\Project DW.dsv",
+              "RelativeDocumentMoniker": "Project DW.dsv",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DWBI Project\\Spllited Tables\\MultidimensionalProject\\Project DW.dsv [Design]",
+              "RelativeToolTip": "Project DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T01:44:33.199Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cube_Project DW.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DWBI Project\\Spllited Tables\\MultidimensionalProject\\Cube_Project DW.cube",
+              "RelativeDocumentMoniker": "Cube_Project DW.cube",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\DWBI Project\\Spllited Tables\\MultidimensionalProject\\Cube_Project DW.cube [Design]",
+              "RelativeToolTip": "Cube_Project DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T01:44:13.337Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
